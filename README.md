@@ -2,7 +2,7 @@
 
 **Change one thing. Explore what happens next.**
 
-## [▶ Open the running application](https://synapse-public-demo.aaryansomaiah26.chatgpt.site)
+## [▶ Open the running application]((https://synapse.aaryansomaiah26.workers.dev/))
 
 No installation, API keys or account required. This is the key-free Sandbox edition with the full v2 interface and fresh browser-computed simulations—not a saved replay.
 
