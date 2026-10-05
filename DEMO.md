@@ -1,6 +1,6 @@
 # Use the running key-free application
 
-https://synapse-public-demo.aaryansomaiah26.chatgpt.site
+https://synapse.aaryansomaiah26.workers.dev/
 
 The URL now opens the full SYNAPSE interface with fresh browser-computed simulations. If an older replay page appears, refresh with Ctrl+Shift+R.
 
